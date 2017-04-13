@@ -1,0 +1,18 @@
+/*
+* styles for settings page
+*/
+.ftrdpsts_heading_featured_post {
+	padding: 25px 10px;
+	max-width: 100%;
+	box-sizing: border-box;
+}
+.ftrdpsts_heading_featured_post .widget_content {
+    margin: 0 auto;
+	text-align: center;
+	padding-bottom: 15px;
+	max-width: 100%;
+}
+input[name="ftrdpsts_display_before_content"],
+input[name="ftrdpsts_display_after_content"] {
+	margin: 5px 5px 7px 0;
+}
